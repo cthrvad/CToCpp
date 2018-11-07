@@ -4,7 +4,7 @@
 using namespace std;
 int main()
 {
- vector<int> v(10);//¿ª±Ù10¸ö³¤¶ÈÎªint µÄÊı×é ,³õÊ¼»¯Ã¿¸öÔªËØÖµÎª0£»
+ vector<int> v(10);//å¼€è¾Ÿ10ä¸ªé•¿åº¦ä¸ºint çš„æ•°ç»„ ,åˆå§‹åŒ–æ¯ä¸ªå…ƒç´ å€¼ä¸º0ï¼›
  vector<int> v1;
  v1.resize(8); // reset the size of the  v1;
  vector<int> v2(100,9); // length=100 and all single number =9
